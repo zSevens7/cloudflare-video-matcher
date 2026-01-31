@@ -1,0 +1,14 @@
+# Ignorar pastas de dados do cliente (Segurança)
+inputs/
+outputs/
+
+# Ignorar arquivos soltos de dados (caso fiquem na raiz)
+*.csv
+*.txt
+
+# Ignorar arquivos do sistema e Python
+__pycache__/
+*.pyc
+venv/
+.env
+.DS_Store
