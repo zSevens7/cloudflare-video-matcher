@@ -29,6 +29,6 @@ Coloque sua planilha na pasta inputs/.
 
 Execute:
 
-    ```bash
+    
     python main.py
-    ```
+   
